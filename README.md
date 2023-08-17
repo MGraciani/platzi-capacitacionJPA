@@ -1,0 +1,2 @@
+# platzi-capacitacionJPA
+capacitacion JPA
